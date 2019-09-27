@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+    color: #ffffff;
+    height: 70px;
+    text-transform: capitalize;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.col-6 {
+    position: relative;
+    text-align: justify;
+    font-size: 18px;
+    
+}
+
+img {
+    width: 45vw;
+    height: 60vh;
+}
+
